@@ -1,3 +1,1 @@
-# JAVA NETBEANS
-
-CRUD (Create, Read, Update, Delete) Sederhana menggunakan netbeans dengan studi kasus aplikasi tiket kereta api
+<h1 align="center">Hi there! 🐰 I'm Choirun Naifah</h1>
